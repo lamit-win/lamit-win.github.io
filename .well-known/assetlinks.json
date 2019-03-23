@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "win.lamit.meani",
+    "sha256_cert_fingerprints":
+    ["E3:1B:F8:4E:90:4C:0A:40:2C:CA:D9:94:83:48:31:E6:7D:F1:10:9F:68:CD:0B:77:8C:EE:B1:56:C0:40:36:5A"]
+  }
+}]
